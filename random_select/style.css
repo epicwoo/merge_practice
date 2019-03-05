@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 18px;
+    color: blue;
+}
+
+h3{
+    font-size: 18px;
+    color: red;
+}
+h4{
+    font-size: 15px;
+    color: gray;
+}
